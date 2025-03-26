@@ -3,6 +3,7 @@
 Task Management API
 
 # clone the repo
-git clone git@github.com-personal:lynardsalingujay/py-fastapi-task-mgmt.git
+
+`git clone git@github.com-personal:lynardsalingujay/py-fastapi-task-mgmt.git`
 
 
